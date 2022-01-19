@@ -1,0 +1,6 @@
+git config --global user.email "nafisanitu240@gmail.com"
+git config --global user.name "NafisaNitu"
+git clone https://github.com/NafisaNitu/bitm_nitu_batch_4.git
+git add .
+git commit -m "bitm_nitu_batch_4 folder upload"
+git push
